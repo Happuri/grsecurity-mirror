@@ -1,4 +1,8 @@
 #!/bin/bash
+# mempo.org 
+
+# Needed packages rsstail, lynx
+
 C='\e[1;33m'
 NC='\e[0m'
 rss_stable='stable2_rss.php'  
